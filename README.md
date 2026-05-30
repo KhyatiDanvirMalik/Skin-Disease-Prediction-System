@@ -120,10 +120,3 @@ pip install -r requirements.txt
 
 3. **Run the Notebook:**
 Open `projectcode.ipynb` in Jupyter or Google Colab to see the preprocessing, training, and evaluation steps.
-
----
-
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
