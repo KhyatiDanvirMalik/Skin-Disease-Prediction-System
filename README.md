@@ -1,7 +1,3 @@
-Based on the project details from your report and source code, here is a comprehensive README.md file designed for a GitHub repository. It highlights the medical context, technical methodology (specifically the use of ADASYN and InceptionV3), and your final results.
-
----
-
 # Skin Disease Prediction using Deep Learning (InceptionV3 & ADASYN)
 
 ## Project Overview
